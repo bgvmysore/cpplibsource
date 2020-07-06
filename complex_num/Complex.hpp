@@ -34,8 +34,8 @@ namespace bgv {
 
     //private functions
     protected:
-        void setRe(float Real                      );
-        void setIm(float Imaginary                 );
+        void setRe     (float Real                 );
+        void setIm     (float Imaginary            );
         void setComplex(float Real, float Imaginary);
 
     //constructors
